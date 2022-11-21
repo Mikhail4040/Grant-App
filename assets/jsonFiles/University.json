@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Oxford",
+    "password": "Oxford12345",
+    "continent": "europe",
+    "country": "United Kingdom",
+    "city": "Oxford",
+    "description": "pla pla pla",
+    "imagePath": "assets/images/universitiesImages/Oxford.jpg",
+    "rank": 3,
+    "studentsNumber" : 10
+  },
+  {
+    "name": "Oxford",
+    "password": "Oxford12345",
+    "continent": "europe",
+    "country": "United Kingdom",
+    "city": "Oxford",
+    "description": "pla pla pla",
+    "imagePath": "assets/images/universitiesImages/Oxford.jpg",
+    "rank": 3,
+    "studentsNumber" : 10
+  }
+]
+
